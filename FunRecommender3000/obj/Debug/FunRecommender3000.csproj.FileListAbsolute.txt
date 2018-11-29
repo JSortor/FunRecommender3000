@@ -1,0 +1,14 @@
+C:\Users\justi\Documents\Grandcircus projects\FunRecommender3000\FunRecommender3000\FunRecommender3000\bin\Debug\FunRecommender3000.exe.config
+C:\Users\justi\Documents\Grandcircus projects\FunRecommender3000\FunRecommender3000\FunRecommender3000\bin\Debug\FunRecommender3000.exe
+C:\Users\justi\Documents\Grandcircus projects\FunRecommender3000\FunRecommender3000\FunRecommender3000\bin\Debug\FunRecommender3000.pdb
+C:\Users\justi\Documents\Grandcircus projects\FunRecommender3000\FunRecommender3000\FunRecommender3000\obj\Debug\FunRecommender3000.csprojAssemblyReference.cache
+C:\Users\justi\Documents\Grandcircus projects\FunRecommender3000\FunRecommender3000\FunRecommender3000\obj\Debug\FunRecommender3000.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\Grandcircus projects\FunRecommender3000\FunRecommender3000\FunRecommender3000\obj\Debug\FunRecommender3000.exe
+C:\Users\justi\Documents\Grandcircus projects\FunRecommender3000\FunRecommender3000\FunRecommender3000\obj\Debug\FunRecommender3000.pdb
+C:\Users\justi\Documents\Grandcircus projects\FunRecommender3000\FunRecommender3000\bin\Debug\FunRecommender3000.exe.config
+C:\Users\justi\Documents\Grandcircus projects\FunRecommender3000\FunRecommender3000\bin\Debug\FunRecommender3000.exe
+C:\Users\justi\Documents\Grandcircus projects\FunRecommender3000\FunRecommender3000\bin\Debug\FunRecommender3000.pdb
+C:\Users\justi\Documents\Grandcircus projects\FunRecommender3000\FunRecommender3000\obj\Debug\FunRecommender3000.csprojAssemblyReference.cache
+C:\Users\justi\Documents\Grandcircus projects\FunRecommender3000\FunRecommender3000\obj\Debug\FunRecommender3000.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\Grandcircus projects\FunRecommender3000\FunRecommender3000\obj\Debug\FunRecommender3000.exe
+C:\Users\justi\Documents\Grandcircus projects\FunRecommender3000\FunRecommender3000\obj\Debug\FunRecommender3000.pdb
